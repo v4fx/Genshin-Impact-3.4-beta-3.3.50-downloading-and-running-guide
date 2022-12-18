@@ -9,6 +9,9 @@
 * File from unknown source: https://az.txma.cn/Genshin-private-server/%E5%AE%A2%E6%88%B7%E7%AB%AF/%E7%94%B5%E8%84%91/3.4/GenshinImpact_3.3.0_3.3.50_hdiff.rar
 * After downloading the hdiff, copy the contents inside of it and then paste it in the current 3.3.0 folder. Replace the old contents with new.
 ## RSA patch:
+* RSA patch: https://anonfiles.com/BcOeS2M7y3/RSAPatch_zip
+* Another file: https://mega.nz/file/3iZGkKKS#305fLoqbv4HHnJ8tTpwhuD11Cd6bTvjoQ_DBxIf1RyI
+* Download any of the files above and unzip it. After unzipping, paste the contents inside of the beta folder. Paste and overwrite the two files, then delete the original version.dll file.
 # Downloading and running grasscutter:
 * Grasscutter for 3.3.50: https://mega.nz/file/zrg2yLoJ#iZ8P79qeC54Fp3dR4kdY1k8fXQ-oKDJcrUzpgQCvS2k
 * Another link: https://anonymfile.com/JEAbR/gc3350.zip
