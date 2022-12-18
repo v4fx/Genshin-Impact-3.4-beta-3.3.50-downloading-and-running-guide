@@ -27,3 +27,5 @@
 # Running the game:
 * Go to grasscutter tab and write account create [username] [UID] (Put whatever you want in the username and put any number in the UID)
 * Upon entering the game you might come accross a certificate error. Click on yes and proceed.
+* Log-in with the account you made earlier.
+* If you followed all the steps above you should be able to get in the game just fine.
