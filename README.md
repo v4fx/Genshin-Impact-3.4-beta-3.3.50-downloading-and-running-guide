@@ -22,7 +22,7 @@
 # Downloading proxy:
 * Download fiddler https://oo.pe/https://www.telerik.com/download/fiddler/fiddler4 and open it.
 * After opening, go to fiddler script tab and paste in this script: https://github.lunatic.moe/fiddlerscript and save.
-* Then go to tools=>options=>HTTPS and check decrypt HTTPS traffic.
+* Then go to tools=>options=>HTTPS and check✓ decrypt HTTPS traffic.
 * Then go to connections and set the port to 5555.
 # Running the game:
 * Go to grasscutter tab and write account create [username] [UID] (Put whatever you want in the username and put any number in the UID)
