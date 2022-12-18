@@ -2,7 +2,7 @@
 ## Downloading the game:
 * You need to have the latest version of the game which is 3.3 
 * If you don't already have the game here is a Direct link of 3.3: https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221128113321_cOH1qEM6iRagjJC6/GenshinImpact_3.3.0.zip
-* After downloading the latest game version, you need to download the beta hdiffP:
+* After downloading the latest game version, you need to download the beta hdiff:
 * Mega file for 3.4 (3.3.50) hdiff: https://mega.nz/file/z6RhhQSS#G7ikX2SvOloCy3eiCe-CM5iIyCXlOrJigCidD0LZ8p0
 * Another mega file: https://mega.nz/file/ZjBiWBpa#6hfOBENvAQn07OE0U9q_HkBw_K_sKqLvQN8fR0BWxFs
 * Another file: https://www.mediafire.com/?hkycik0rh9t3gnhxnl9h95fu7fejvts
