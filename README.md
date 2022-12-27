@@ -11,7 +11,7 @@
 ## RSA patch:
 * RSA patch: https://anonfiles.com/BcOeS2M7y3/RSAPatch_zip
 * Another file: https://mega.nz/file/3iZGkKKS#305fLoqbv4HHnJ8tTpwhuD11Cd6bTvjoQ_DBxIf1RyI
-* Download any of the files above and unzip it. After unzipping, paste the contents inside of the beta folder. Paste and overwrite the two files, then delete the original version.dll file.
+* Download any of the files above and unzip it. After unzipping, paste the contents inside of the beta folder. Make a backup of the original myhpbase.dll and delete/replace the original one.
 # Downloading and running grasscutter:
 * Grasscutter for 3.3.50: https://mega.nz/file/zrg2yLoJ#iZ8P79qeC54Fp3dR4kdY1k8fXQ-oKDJcrUzpgQCvS2k
 * Another link: https://anonymfile.com/JEAbR/gc3350.zip
